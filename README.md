@@ -12,8 +12,9 @@
 )
 ![](<img width="288" alt="artgraphics2" src="https://github.com/user-attachments/assets/915e0bd7-548d-48a5-b586-b5482ba1c04e"> "wireframe"
 )
-![](<img width="288" alt="artgraphics3" src="https://github.com/user-attachments/assets/9a9fd944-c36b-47f4-9111-bedc00d8bae8"> "wireframe"
+![](<img width="288" alt="artgraphics3" src="https://github.com/user-attachments/assets/9a9fd944-c36b-47f4-9111-bedc00d8bae8" "wireframe"> 
 )
+
 
 ## Features
 ### Homepage 

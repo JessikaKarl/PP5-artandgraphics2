@@ -1,7 +1,6 @@
 # Project Portfolio 5
 ## Art & Graphics 
-### 
-
+Art & Graphics is a commissons platform for designers and customers. Where you as a seller can take commission work and showcase your portfolio. As a customer this page is made to be simple and easy for you to get help with designs for your projects and find an artist that can make your ideas to reality. 
 ## Design 
 ### Colours 
 
@@ -25,6 +24,7 @@ Order
 ### Sign up
 Customer 
 Seller 
+## Social media/ Facebook page 
 ## Testing 
 ### Validator Testing 
 ### Unfixted Bugs 

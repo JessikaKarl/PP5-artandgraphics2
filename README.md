@@ -7,11 +7,14 @@ Art & Graphics is a commissons platform for designers and customers. Where you a
 ### Typography
 
 ### Wireframes
-![wireframe1](<img width="292" alt="artgraphics1" src="https://github.com/user-attachments/assets/b7af1721-e12c-4832-a93b-6cb612135346"> "wireframe"
+![wireframe1](<img width="292" alt="artgraphics1" src="https://github.com/user-attachments/assets/746673ea-f06c-4180-a6a2-b6c029b98d48">
+
 )
-![wireframe2](<img width="288" alt="artgraphics2" src="https://github.com/user-attachments/assets/915e0bd7-548d-48a5-b586-b5482ba1c04e"> "wireframe"
+![wireframe2](<img width="288" alt="artgraphics2" src="https://github.com/user-attachments/assets/f72e5168-4fa7-4ade-a61d-766f8decb91e">
+
 )
-![wireframe3](<img width="288" alt="artgraphics3" src="https://github.com/user-attachments/assets/9a9fd944-c36b-47f4-9111-bedc00d8bae8" "wireframe"> 
+![wireframe3](<img width="288" alt="artgraphics3" src="https://github.com/user-attachments/assets/6e8ddf2f-1e8e-4238-a2b5-844d8edb40e1">
+> 
 )
 
 

@@ -27,6 +27,7 @@ Order
 ### Sign up
 Customer 
 Seller 
+### E-commerce
 ## Social media/ Facebook page 
 ## Testing 
 ### Validator Testing 

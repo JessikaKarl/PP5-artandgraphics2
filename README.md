@@ -17,11 +17,14 @@
 
 
 ## Features
-### Homepage 
-### Book a table 
-### Reservations 
-### Sign up 
-### Login and Logout 
+### Homepage  
+### Portfolio 
+### Commissions 
+Quote 
+Order 
+### Sign up
+Customer 
+Seller 
 ## Testing 
 ### Validator Testing 
 ### Unfixted Bugs 

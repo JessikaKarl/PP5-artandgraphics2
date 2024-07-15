@@ -36,7 +36,7 @@ The website is deployed to GitHub pages. This is how I deployed:
 - Go to the heading called Branch. Select branch to main and select folder to root. When done click Save.
 - Now the website is deployed.
 
-The live link can be found here - 
+The live link can be found here - https://jessikakarl.github.io/PP5-artandgraphics2/
 
 ## Credits 
 *

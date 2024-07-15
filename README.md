@@ -13,8 +13,8 @@ Art & Graphics is a commissons platform for designers and customers. Where you a
 ![wireframe2](<img width="288" alt="artgraphics2" src="https://github.com/user-attachments/assets/f72e5168-4fa7-4ade-a61d-766f8decb91e">
 
 )
-![wireframe3](<img width="288" alt="artgraphics3" src="https://github.com/user-attachments/assets/6e8ddf2f-1e8e-4238-a2b5-844d8edb40e1">
-> 
+![wireframe3](<img width="288" alt="artgraphics3" src="https://github.com/user-attachments/assets/74a10c33-c5f9-4b9d-8b43-476e3eb958fd">
+
 )
 
 
